@@ -3,7 +3,9 @@ proje-onerisi-grup-mustafataslialan created by GitHub Classroom
 ![quizzDiagram](https://user-images.githubusercontent.com/100672502/158207171-0ffbb148-d681-47fa-86a7-123fd98af38a.png)
 
 sınıf diagram
-![sınıfdiagram](https://user-images.githubusercontent.com/100672502/165401425-a106288b-27fd-4092-97ef-a513e4e13b6b.png)
+![sınıfdiagram](https://user-images.githubusercontent.com/100672502/165407819-de1b2fae-b2f7-4297-9771-973f33e7e158.png)
+
+
 
 # Giriş
 
@@ -30,4 +32,8 @@ PROJE GÖREV KONTROL LİSTESİ
 |TASARIM    | 12 GÜN    |   YAPIM AŞAMASINDA  | <ul><li>- [x] tamamlandı</li><li>- [ ] yapımda </li></ul>
 |ARAYÜZ    | 11 GÜN     |   YAPIM AŞAMASINDA  | <ul><li>- [x] tamamlandı</li><li>- [ ] yapımda </li></ul>
 |SORU DÜŞÜNME   | 10 GÜN     |   YAPIM AŞAMASINDA  | <ul><li>- [x] tamamlandı</li><li>- [ ] yapımda </li></ul>
+
+#Yazılım gereksinim Analizi 
+[Uploading QuizUygulaması Yazılım Gereksinim Analizi(Mustafa TAŞLIALAN)-dönüştürüldü.pdf…]()
+
 
