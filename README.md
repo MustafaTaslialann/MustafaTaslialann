@@ -29,9 +29,9 @@ PROJE GÖREV KONTROL LİSTESİ
 
 |GÖREV        | KALAN ZAMAN | DURUM | TAMAMLANDI MI        |
 |------------|---------------|----------------|------------------------------------|
-|TASARIM    | 12 GÜN    |   YAPIM AŞAMASINDA  | <ul><li>- [x] tamamlandı</li><li>- [ ] yapımda </li></ul>
-|ARAYÜZ    | 11 GÜN     |   YAPIM AŞAMASINDA  | <ul><li>- [x] tamamlandı</li><li>- [ ] yapımda </li></ul>
-|SORU DÜŞÜNME   | 10 GÜN     |   YAPIM AŞAMASINDA  | <ul><li>- [x] tamamlandı</li><li>- [ ] yapımda </li></ul>
+|TASARIM    | 10 GÜN    |   YAPIM AŞAMASINDA  | <ul><li>- [ ] tamamlandı</li><li>- [x] yapımda </li></ul>
+|ARAYÜZ    | 10 GÜN     |   YAPIM AŞAMASINDA  | <ul><li>- [ ] tamamlandı</li><li>- [x] yapımda </li></ul>
+|SORU DÜŞÜNME   | 10 GÜN     |   YAPIM AŞAMASINDA  | <ul><li>- [ ] tamamlandı</li><li>- [x] yapımda </li></ul>
 
 #Yazılım gereksinim Analizi 
 [Uploading QuizUygulaması Yazılım Gereksinim Analizi(Mustafa TAŞLIALAN)-dönüştürüldü.pdf…]()
